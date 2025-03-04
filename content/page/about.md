@@ -1,8 +1,10 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to learn with me
 comments: false
 ---
+
+![profile](/img/gautham.jpeg)
 
 Hi,
 

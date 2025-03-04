@@ -1,5 +1,7 @@
 
 
+![](/public/img/gautham.jpeg)
+
 Learn ***Python***, ***RDBMS*** & ***Data Engineering with Python*** in a Live Instructor-Led environment.
 
 ***Python*** and ***RDBMS*** programs are quickly getting-upto-speed and over-the-weekend bootcamps.
