@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Constructs of Python</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Constructs of Python</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>gautham.kolluru@gmail.com (Gautham Kolluru)</managingEditor>
+    <webMaster>gautham.kolluru@gmail.com (Gautham Kolluru)</webMaster>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gautham.kolluru@gmail.com (Gautham Kolluru)</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;Hi,&lt;/p&gt;&#xA;&lt;p&gt;My name is &lt;strong&gt;Gautham Kolluru&lt;/strong&gt; and I hail from &lt;strong&gt;Visakhapatnam, Andhra Pradesh, India&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I hold a bachelors degree in &lt;strong&gt;Computer Science&lt;/strong&gt; and thats because I love Electronics, Computers, Technology, Mathematics, Programming and (last but no way the least) &lt;em&gt;solving problems efficiently&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I officially started teaching since my 2nd year at college (at a local institute during my 1st year break) in 2006.&lt;/p&gt;&#xA;&lt;p&gt;In my ~2 decades of teaching, I worked as a Trainer for &lt;strong&gt;Full-Time&lt;/strong&gt; for about an year at &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://talentsprint.com/en-us?srsltid=AfmBOorxIgjv7wuw5idmxc3O7whX6zLnOlILOawYxaIYQZIh0pxuHWSa&#34;&gt;Talent Sprint&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;. I taught &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;Django&lt;/strong&gt; and &lt;strong&gt;Machine Learning&lt;/strong&gt; at 2 colleges for them and also trained 2 batches of Tata Consultancy Service&amp;rsquo;s new recruits in Python and Machine Learning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Constructs of Python</title>
+      <link>http://localhost:1313/page/python_bootcamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gautham.kolluru@gmail.com (Gautham Kolluru)</author>
+      <guid>http://localhost:1313/page/python_bootcamp/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/python-logo-master-v3-TM-flattened.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;a href=&#34;https://forms.gle/G4FuPe4NKYsYFrFL6&#34;&gt;&lt;em&gt;&lt;strong&gt;Register&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;We start with what a &lt;strong&gt;Python virtual machine&lt;/strong&gt; means and go all the way till (and including) &lt;strong&gt;Object Oriented Programming&lt;/strong&gt; in Python and also cover the &lt;strong&gt;functional programming&lt;/strong&gt; constructs of the language.&lt;/p&gt;&#xA;&lt;p&gt;With this knowledge, the learner will be in a better position of choosing which way to go further, be it &lt;em&gt;Web Development (Front-end / Back-end / Full Stack), Automation, Data Engineering, Data Science, etc&amp;hellip;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Anyone above 7 years of age (apparantly as per online researches) can learn Python!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Engineering Through Python</title>
+      <link>http://localhost:1313/page/data_engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gautham.kolluru@gmail.com (Gautham Kolluru)</author>
+      <guid>http://localhost:1313/page/data_engineering/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/python_data_engineering.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;coming-soon&#34;&gt;Coming soon&amp;hellip;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Relational Database Management System</title>
+      <link>http://localhost:1313/page/rdbms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gautham.kolluru@gmail.com (Gautham Kolluru)</author>
+      <guid>http://localhost:1313/page/rdbms/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/rdbms.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;coming-soon&#34;&gt;Coming soon&amp;hellip;&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
