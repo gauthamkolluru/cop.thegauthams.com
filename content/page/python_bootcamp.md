@@ -8,14 +8,15 @@ comments: false
 
 &nbsp;
 
-| Dates                                              | Time                                     | Fee           |
-| -------------------------------------------------- | ---------------------------------------- | ------------- |
-| ***15<sup>th</sup> & 16<sup>th</sup> March 2025*** | ***10:00 AM - 06:00 PM (Eastern Time)*** | ***$129.00*** |
+| Dates | Time                                     |
+| ----- | ---------------------------------------- |
+| TBD   | ***10:00 AM - 06:00 PM (Eastern Time)*** |
 
 &nbsp;
 
+<!-- 
 | [***Register***](https://forms.gle/G4FuPe4NKYsYFrFL6) |
-| ----------------------------------------------------- |
+| ----------------------------------------------------- | -->
 
 &nbsp;
 
@@ -60,5 +61,5 @@ No prior experience is required (but if you have some sort of programming experi
 
 &nbsp;
 
-| [***Register***](https://forms.gle/G4FuPe4NKYsYFrFL6) |
-| ----------------------------------------------------- |
+<!-- | [***Register***](https://forms.gle/G4FuPe4NKYsYFrFL6) |
+| ----------------------------------------------------- | -->
